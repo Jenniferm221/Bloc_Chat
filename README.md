@@ -8,19 +8,13 @@ A ReactJS app using Google Firebase and Material UI.
 
 ## Synopsis
 
-Bloc Chat was built as my second project using React.  The app was first built by creating a list of chat rooms that dynamically updates when a user adds a new chat room. After that, displayed messages for each chat room were generated. Firebase was added for user authentication and to save messages for each user. All messages only display within the given chat room in which they were created. Messages and chat rooms may be deleted and edited when necessary. The page was styled using Material UI. It is mobile responsive, though it is best used on a desktop platform. 
+My second project while studying code was to build a chat application. This application is coded to allow users to add new chatrooms, update messages and chat in their selected room. Firebase was used to authenticate each user.  The page was styled using Material UI. It is mobile responsive, though it is best used on a desktop platform.
 
 ## Technologies
 
 - [ReactJS](https://github.com/facebook/react/)
 - [MaterialUI](https://github.com/mui-org/material-ui)
 - [Firebase](https://github.com/firebase/)
-
-## Future Updates
-
-- Adding admin accounts for creating private chats.
-- Adding editing capabilities to messages.
-- Updating UX on mobile platform.
 
 ## Author
 
